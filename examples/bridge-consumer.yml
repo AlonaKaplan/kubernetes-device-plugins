@@ -11,4 +11,4 @@ spec:
     command: ["/bin/sleep", "1234"]
     resources:
       limits:
-        bridge.network.kubevirt.io/mybr0: 1
+        bridge.network.kubevirt.io/br0: 1
